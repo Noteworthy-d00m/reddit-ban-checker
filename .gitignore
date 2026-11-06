@@ -1,0 +1,8 @@
+build/
+dist/
+*.spec
+__pycache__/
+.venv/
+# Never commit account lists or results
+*.txt
+*.csv
